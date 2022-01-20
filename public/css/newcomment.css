@@ -1,0 +1,25 @@
+
+.newevent-form {
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.evaluations {
+  text-align: center;
+}
+
+.form-check-label {
+  font-size: 24px;
+}
+
+.newevent-form button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.then-login {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 300px;
+}

@@ -1,0 +1,19 @@
+  :root {
+        --purple: rgb(97, 92, 236);
+        --red: rgb(195, 79, 94);
+  }
+
+  .col-purple {
+      color: var(--purple);
+      border-color: var(--purple);
+  }
+
+  .col-purple:hover {
+      background-color: var(--purple);
+      border-color: var(--purple);
+  }
+
+  .btn-bg-purple {
+    background-color: var(--purple);
+    border-color: var(--purple);
+  }
